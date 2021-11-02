@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetH8_1 Pin=R17-1
+Removed Pin From Net: NetName=NetH8_1 Pin=U7-1
+Added Component: Designator=R15(RESC1608N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetH8_1 Pin=R15-1
+Added Pin To Net: NetName=V_LED Pin=R15-2
+Added Pin To Net: NetName=NetR17_1 Pin=R17-1
+Added Pin To Net: NetName=NetR17_1 Pin=U7-1
+Added Net: Name=NetR17_1
+Added Member To Class: ClassName=Ancillaries Member=Component R15 0R

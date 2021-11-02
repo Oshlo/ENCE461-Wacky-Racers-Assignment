@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VBATT Pin=R8-1
+Removed Member From Class: ClassName=Power_USB Member=R21
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Change Component Designator: OldDesignator=R29 NewDesignator=R28
+Added Pin To Net: NetName=VBATT Pin=C5-2
+Added Pin To Net: NetName=VBATT Pin=R9-2
+Added Pin To Net: NetName=VBATT Pin=U4-2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR23_2 New Net Name=NetR22_2
+Added Room: Name=IMU_Radio
+Added Room: Name=Power_USB
+Added Room: Name=SAM4S_Piezo_LED

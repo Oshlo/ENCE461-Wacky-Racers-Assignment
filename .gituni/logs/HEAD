@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 ac5235ddb08d6e45e5bfbef54376646f74ff5167 Adam Finlayson <acf60@uclive.ac.nz> 1620171726 +1200	clone: from git@eng-git.canterbury.ac.nz:hgp22/wacky-racers.git
+ac5235ddb08d6e45e5bfbef54376646f74ff5167 1c0f8e14693494b3e70b0f2b6ea99ac1d5b6cab7 Adam Finlayson <acf60@uclive.ac.nz> 1620174048 +1200	commit: PCB Files
+1c0f8e14693494b3e70b0f2b6ea99ac1d5b6cab7 46cf05faec2ca937b4508e6abbb6bbd2dd4fcd81 Adam Finlayson <acf60@uclive.ac.nz> 1620174247 +1200	pull: Fast-forward
+46cf05faec2ca937b4508e6abbb6bbd2dd4fcd81 c1bb9bf97971a7f7c5b658116b8b07a69ccb64fb Adam Finlayson <acf60@uclive.ac.nz> 1620713117 +1200	pull: Fast-forward
+c1bb9bf97971a7f7c5b658116b8b07a69ccb64fb a6be110a2247d30e32d454834d219a82802fbf4f Adam Finlayson <acf60@uclive.ac.nz> 1620733610 +1200	commit: Working IMU milestone code
+a6be110a2247d30e32d454834d219a82802fbf4f 806ed43ac4f7dc3b95a264d378afe7c4c21c41cc Adam Finlayson <acf60@uclive.ac.nz> 1620734047 +1200	commit: quick fix
+806ed43ac4f7dc3b95a264d378afe7c4c21c41cc 554a7a0cd34a239ae6536cddf14bb873467034c2 Adam Finlayson <acf60@uclive.ac.nz> 1620901856 +1200	commit: Working Radio and Piezo
+554a7a0cd34a239ae6536cddf14bb873467034c2 1844a41ec355dcaa8636db5bec91f20c1f9cfc92 Adam Finlayson <acf60@uclive.ac.nz> 1621230900 +1200	commit: Working radio transmision to racer board. The thing drives!!
+1844a41ec355dcaa8636db5bec91f20c1f9cfc92 7017be06a6dbc9e18381daddd28f1c5ba3a40f50 Adam Finlayson <acf60@uclive.ac.nz> 1621994395 +1200	commit: adc working in examples, not in main file needs work
+7017be06a6dbc9e18381daddd28f1c5ba3a40f50 adc650793cb4f7ea8f03c1caa6e5d55de9b490f3 Adam Finlayson <acf60@uclive.ac.nz> 1622086117 +1200	commit: Working ADC and Radio Channel Select Switches
+adc650793cb4f7ea8f03c1caa6e5d55de9b490f3 25a9678d2e9a5e1ff7d766ac5caea7d3e1f655d7 Adam Finlayson <acf60@uclive.ac.nz> 1622180313 +1200	commit: Added woking steering from joystick and imu, and working piezo. All it needs now is low voltage detection.

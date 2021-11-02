@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=Piezo High Pin=R5-1
+Change Component Comment : Designator=TP4 Old Comment=Piezo 22Alt New Comment=Piezo 22 Alt
+Added Pin To Net: NetName=Piezo Low Pin=R5-1

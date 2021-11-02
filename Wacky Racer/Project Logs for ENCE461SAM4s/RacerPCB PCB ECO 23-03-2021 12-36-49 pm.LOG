@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=BRKOUT_1 Pin=H9-1
+Removed Pin From Net: NetName=BRKOUT_2 Pin=H9-2
+Removed Pin From Net: NetName=BRKOUT_4 Pin=H9-4
+Removed Pin From Net: NetName=BRKOUT_5 Pin=H9-5
+Added Pin To Net: NetName=BRKOUT_5 Pin=H9-1
+Added Pin To Net: NetName=BRKOUT_4 Pin=H9-2
+Added Pin To Net: NetName=BRKOUT_2 Pin=H9-4
+Added Pin To Net: NetName=BRKOUT_1 Pin=H9-5

@@ -1,0 +1,26 @@
+Added Component: Designator=T1(SOT23_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Current - Continuous Drain (Id) @ 25° C"; Value = "1.05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FET Type"; Value = "MOSFET N-Channel, Metal Oxide"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate Charge (Qg) @ Vgs"; Value = "3.9nC @ 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance (Ciss) @ Vds"; Value = "152pF @ 16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "NXP Semiconductors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "BSH105,215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "TO-236-3, SC-59, SOT-23-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power - Max"; Value = "417mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.53, 10=0.42, 25=0.3544, 100=0.2885, 250=0.23896, 500=0.1974, 1000=0.14785 (NZD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On (Max) @ Id, Vgs"; Value = "200 mOhm @ 600mA, 4.5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1758066"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "568-6215-1-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR4_2 Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=NetH2_2 Pin=T1-3
+Added Member To Class: ClassName=IMU_Radio Member=Component T1 BSH105,215
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP19 IMU INT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP20 Buzzer High
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP21 SWCLK

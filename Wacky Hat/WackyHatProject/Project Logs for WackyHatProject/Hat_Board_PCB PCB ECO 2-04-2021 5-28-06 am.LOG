@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=5V Pin=H4-1
+Removed Member From Class: ClassName=IMU_Radio Member=H4
+Added Pin To Net: NetName=5V Pin=H3-1
+Added Pin To Net: NetName=Piezo 22 Pin=R5-1
+Added Pin To Net: NetName=Piezo 22 Pin=T1-3
+Added Pin To Net: NetName=5V Pin=U2-7
+Change Net Name : Old Net Name=5V New Net Name=Piezo 21

@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=V_LED Pin=R15-2
+Removed Member From Class: ClassName=Ancillaries Member=R15
+Added Pin To Net: NetName=V_LED Pin=H8-1

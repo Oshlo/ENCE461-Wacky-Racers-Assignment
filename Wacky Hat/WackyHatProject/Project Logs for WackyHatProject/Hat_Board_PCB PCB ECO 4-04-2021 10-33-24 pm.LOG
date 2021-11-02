@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=5V Pin=R4-2
+Removed Member From Class: ClassName=IMU_Radio Member=H5
+Change Component Comment : Designator=TP3 Old Comment=IMU Clock New Comment=IMU Clock Alt
+Change Component Comment : Designator=TP2 Old Comment=IMU Data New Comment=IMU Data Alt
+Change Component Comment : Designator=TP1 Old Comment=IMU Int New Comment=IMU Int Alt
+Change Component Designator: OldDesignator=H5 NewDesignator=H4
+Change Component Designator: OldDesignator=H6 NewDesignator=H5
+Change Component Designator: OldDesignator=H7 NewDesignator=H6
+Change Component Designator: OldDesignator=H8 NewDesignator=H7
+Change Component Designator: OldDesignator=H9 NewDesignator=H8
+Change Component Designator: OldDesignator=H10 NewDesignator=H9
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP6
+Change Component Designator: OldDesignator=TP5 NewDesignator=TP7
+Change Component Designator: OldDesignator=TP6 NewDesignator=TP8
+Change Component Designator: OldDesignator=TP7 NewDesignator=TP9
+Change Component Designator: OldDesignator=TP8 NewDesignator=TP10
+Change Component Designator: OldDesignator=TP9 NewDesignator=TP11
+Change Component Designator: OldDesignator=TP10 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP11 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP12 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP13 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP14 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP23
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP24
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP25
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP26
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP27
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP28
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP29
+Change Component Designator: OldDesignator=TP23 NewDesignator=TP30
+Change Component Designator: OldDesignator=TP24 NewDesignator=TP31
+Change Component Designator: OldDesignator=TP25 NewDesignator=TP32
+Added Component: Designator=TP4(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=Piezo 22 Pin=TP12-1
+Added Pin To Net: NetName=Piezo 21 Pin=TP13-1
+Added Pin To Net: NetName=Piezo 12 Pin=TP14-1
+Added Pin To Net: NetName=Piezo 11 Pin=TP15-1
+Added Pin To Net: NetName=VPIEZO Pin=TP17-1
+Change Net Name : Old Net Name=NetH8_3 New Net Name=NetH7_3
+Change Net Name : Old Net Name=NetH8_4 New Net Name=NetH7_4
+Change Net Name : Old Net Name=NetH9_3 New Net Name=NetH8_3
+Change Net Name : Old Net Name=NetH9_4 New Net Name=NetH8_4
+Change Net Name : Old Net Name=NetTP5_1 New Net Name=NetTP7_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
+Added Pin To Net: NetName=NetR4_1 Pin=TP4-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=T1-3
+Added Pin To Net: NetName=NetR5_1 Pin=TP5-1
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=IMU_Radio Member=Component TP4 Piezo 22 Alt
+Added Member To Class: ClassName=IMU_Radio Member=Component TP5 Peizo 21 Alt
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP15 Piezo 11
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP17 VPIEZO
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP19 VBUS
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP20 3V3
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP21 VBATT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP26 Radio MOSI
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP27 IMU DATA
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP28 IMU INT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP29 Buzzer High
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP30 SWCLK
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP31 Radio CLK

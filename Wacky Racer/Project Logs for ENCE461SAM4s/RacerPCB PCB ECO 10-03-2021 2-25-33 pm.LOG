@@ -1,0 +1,8 @@
+Change Component Comment : Designator=S1 Old Comment=nRST New Comment=EVQPNF05M
+Change Component Comment : Designator=S2 Old Comment=SLEEP New Comment=EVQPNF05M
+Change Component Comment : Designator=PP_V_BATT1 Old Comment=TP_0603 New Comment=PP_V_BATT
+Change Component Comment : Designator=V_BATT1 Old Comment=TP_0603 New Comment=V_BATT
+Change Component Designator: OldDesignator=PP_V_BATT1 NewDesignator=2
+Change Component Designator: OldDesignator=V_BATT1 NewDesignator=1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=Net2_1
+Change Net Name : Old Net Name=NetH3_2 New Net Name=Net1_1

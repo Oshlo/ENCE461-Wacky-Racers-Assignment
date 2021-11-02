@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=LED Signal Pin=U9-41
+Removed Member From Class: ClassName=SAM4S_Piezo_LED Member=R20
+Added Pin To Net: NetName=LED Signal Pin=U9-34
+Added Member To Class: ClassName=Power_USB Member=Component R8 270R
+Added Member To Class: ClassName=Power_USB Member=Component R9 15K
+Added Member To Class: ClassName=Power_USB Member=Component R10 47K
+Added Member To Class: ClassName=Power_USB Member=Component R12 36K
+Added Member To Class: ClassName=Power_USB Member=Component R14 47K
+Added Member To Class: ClassName=Power_USB Member=Component R17 0R
+Added Member To Class: ClassName=Power_USB Member=Component R19 360R
+Added Member To Class: ClassName=Power_USB Member=Component R20 360R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R21 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R24 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R26 1R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R27 360R

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=5V Pin=H6-3
+Removed Pin From Net: NetName=GND Pin=H6-4
+Removed Member From Class: ClassName=SAM4S_Piezo_LED Member=R19
+Added Pin To Net: NetName=5V Pin=H6-1
+Added Pin To Net: NetName=GND Pin=H6-2
+Added Pin To Net: NetName=NetH6_3 Pin=H6-3
+Added Pin To Net: NetName=NetH6_3 Pin=U6-3
+Added Net: Name=NetH6_3
+Added Pin To Net: NetName=NetH6_4 Pin=H6-4
+Added Pin To Net: NetName=NetH6_4 Pin=U7-3
+Added Net: Name=NetH6_4
+Added Member To Class: ClassName=Power_USB Member=Component R17 0R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R20 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R22 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R25 360R

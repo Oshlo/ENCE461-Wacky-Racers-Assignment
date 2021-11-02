@@ -1,0 +1,9 @@
+Added Member To Class: ClassName=Power_USB Member=Component R7 270R
+Added Member To Class: ClassName=Power_USB Member=Component R8 15K
+Added Member To Class: ClassName=Power_USB Member=Component R10 27K
+Added Member To Class: ClassName=Power_USB Member=Component R12 0R
+Added Member To Class: ClassName=Power_USB Member=Component R14 24K
+Added Member To Class: ClassName=Power_USB Member=Component R16 0R
+Added Member To Class: ClassName=Power_USB Member=Component R17 360R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R21 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R24 360R

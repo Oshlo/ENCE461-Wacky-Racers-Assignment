@@ -1,0 +1,19 @@
+Change Component Comment : Designator=R16 Old Comment=360R New Comment=10K
+Change Component Comment : Designator=R17 Old Comment=360R New Comment=10K
+Change Component Comment : Designator=S2 Old Comment=RESET New Comment=EVQPNF05M
+Change Component Comment : Designator=S3 Old Comment=SLEEP New Comment=EVQPNF05M
+Change component parameters: Designator = "R16"; Footprint = "RESC1608L"; UniqueID = "\WDXWRBNF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R17"; Footprint = "RESC1608L"; UniqueID = "\GHTRAWKZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP15 SWDIO
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP16 LED Signal
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP18 Radio MOSI
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP20 IMU INT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP22 SWCLK

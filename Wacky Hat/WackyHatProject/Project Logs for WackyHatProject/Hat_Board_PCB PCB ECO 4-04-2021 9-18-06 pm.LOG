@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D3-2
+Removed Pin From Net: NetName=NetD1_2 Pin=Q2-1
+Removed Member From Class: ClassName=IMU_Radio Member=C10
+Removed Member From Class: ClassName=IMU_Radio Member=C11
+Removed Member From Class: ClassName=IMU_Radio Member=C15
+Removed Member From Class: ClassName=Power_USB Member=C21
+Removed Member From Class: ClassName=Power_USB Member=C22
+Removed Member From Class: ClassName=Power_USB Member=C26
+Removed Member From Class: ClassName=IMU_Radio Member=H6
+Removed Member From Class: ClassName=IMU_Radio Member=H7
+Removed Member From Class: ClassName=Power_USB Member=H10
+Removed Member From Class: ClassName=IMU_Radio Member=R9
+Removed Member From Class: ClassName=Power_USB Member=R21
+Removed Member From Class: ClassName=Power_USB Member=R26
+Removed Member From Class: ClassName=IMU_Radio Member=U5
+Removed Member From Class: ClassName=Power_USB Member=U10
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Change Component Designator: OldDesignator=R26 NewDesignator=R27
+Added Component: Designator=R9(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "270R"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R9-1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR17_1
+Change Net Name : Old Net Name=NetR20_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR22_2
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=Q2-1
+Added Pin To Net: NetName=NetD3_2 Pin=R9-2
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=IMU_Radio Member=Component C4 10nF
+Added Member To Class: ClassName=IMU_Radio Member=Component C5 10uF
+Added Member To Class: ClassName=IMU_Radio Member=Component C6 2.2uF
+Added Member To Class: ClassName=IMU_Radio Member=Component C7 10uF
+Added Member To Class: ClassName=IMU_Radio Member=Component C8 10nF
+Added Member To Class: ClassName=Power_USB Member=Component C10 10uF
+Added Member To Class: ClassName=Power_USB Member=Component C11 100nF
+Added Member To Class: ClassName=Power_USB Member=Component C12 47uF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C20 27pF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C21 27pF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C22 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C23 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C24 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C25 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C29 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C30 100nF
+Added Member To Class: ClassName=Power_USB Member=Component D1 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component D2 SCHOTTKY 30V 4A
+Added Member To Class: ClassName=Power_USB Member=Component D3 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component D5 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component F1 5A
+Added Member To Class: ClassName=IMU_Radio Member=Component H2 2 Pin Molex KK HDR
+Added Member To Class: ClassName=IMU_Radio Member=Component H3 2 Pin Molex KK HDR
+Added Member To Class: ClassName=IMU_Radio Member=Component H4 2 Pin Molex KK HDR
+Added Member To Class: ClassName=IMU_Radio Member=Component H5 3 Pin Molex KK Hdr
+Added Member To Class: ClassName=Power_USB Member=Component H6 Battery_HEADER_3pin
+Added Member To Class: ClassName=Power_USB Member=Component H7 JS_USB_MICRO_B
+Added Member To Class: ClassName=Power_USB Member=Component H8 4 Pin Molex KK Hdr
+Added Member To Class: ClassName=IMU_Radio Member=Component R2 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R3 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R4 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R6 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R7 0R
+Added Member To Class: ClassName=Power_USB Member=Component R8 270R
+Added Member To Class: ClassName=Power_USB Member=Component R9 270R
+Added Member To Class: ClassName=Power_USB Member=Component R11 47K
+Added Member To Class: ClassName=Power_USB Member=Component R12 27K
+Added Member To Class: ClassName=Power_USB Member=Component R14 0R
+Added Member To Class: ClassName=Power_USB Member=Component R15 47K
+Added Member To Class: ClassName=Power_USB Member=Component R16 24K
+Added Member To Class: ClassName=Power_USB Member=Component R17 0R
+Added Member To Class: ClassName=Power_USB Member=Component R19 10K
+Added Member To Class: ClassName=Power_USB Member=Component R20 10K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R21 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R22 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R23 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R24 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R27 360R
+Added Member To Class: ClassName=IMU_Radio Member=Component U3 DRV8833
+Added Member To Class: ClassName=IMU_Radio Member=Component U4 SN74LVC1T45
+Added Member To Class: ClassName=Power_USB Member=Component U5 Comment
+Added Member To Class: ClassName=Power_USB Member=Component U7 SN74LVC1T45

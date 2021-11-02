@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=SAM4s_Schematic Member=C19
+Added Component: Designator=C31(NICH-1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Nichcon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = "UWX1C101MCL1GB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1870677"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "493-2105-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100uF/16V"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=SAM4s_Schematic Member=Component C15 100uF/16V
+Added Member To Class: ClassName=SAM4s_Schematic Member=Component C17 1uF
+Added Member To Class: ClassName=Ancillaries Member=Component C18 1uF
+Added Member To Class: ClassName=Ancillaries Member=Component C20 100uF/16V
+Added Member To Class: ClassName=Ancillaries Member=Component C21 10uF
+Added Member To Class: ClassName=Ancillaries Member=Component C23 100uF/16V
+Added Member To Class: ClassName=Ancillaries Member=Component C27 470uF/16V
+Added Member To Class: ClassName=Ancillaries Member=Component L2 1A max, Idc 0.3R,
+Added Member To Class: ClassName=Ancillaries Member=Component R15 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R16 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R17 0R

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=V_BATT Pin=R12-2
+Removed Pin From Net: NetName=3V3_RADIO Pin=R16-2
+Removed Pin From Net: NetName=USB_DETECT Pin=U1-59
+Removed Pin From Net: NetName=GND Pin=U5-6
+Removed Member From Class: ClassName=Ancillaries Member=R20
+Removed Member From Class: ClassName=Ancillaries Member=R21
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R17 NewDesignator=R15
+Change Component Designator: OldDesignator=R18 NewDesignator=R16
+Change Component Designator: OldDesignator=R19 NewDesignator=R17
+Change Component Designator: OldDesignator=R20 NewDesignator=R18
+Change Component Designator: OldDesignator=R21 NewDesignator=R19
+Added Pin To Net: NetName=V_BATT Pin=R12-2
+Added Pin To Net: NetName=3V3_RADIO Pin=R15-2
+Added Pin To Net: NetName=USB_DETECT Pin=U1-52
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR18_1

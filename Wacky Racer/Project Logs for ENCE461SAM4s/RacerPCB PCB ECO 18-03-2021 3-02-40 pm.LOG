@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=C15 Old Footprint=NICH-1 New Footprint=CAPC3216N
+Change Component Comment : Designator=C15 Old Comment=100uF/16V New Comment=22uF
+Change component parameters: Designator = "C15"; Footprint = "CAPC3216N"; UniqueID = "\QWWUQRZF"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "Y5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"

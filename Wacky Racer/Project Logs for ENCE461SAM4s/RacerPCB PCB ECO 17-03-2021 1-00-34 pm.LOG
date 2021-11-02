@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=TP1 Old Footprint=TP_1206 New Footprint=TP_0603
+Change Component Footprint: Designator=TP2 Old Footprint=TP_1206 New Footprint=TP_0603
+Change Component Kind : Designator=TP2 Old Kind=Standard (No BOM) New Kind=Standard
+Change Component Kind : Designator=TP1 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "TP1"; Footprint = "TP_0603"; UniqueID = "\DHVHZOXB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP2"; Footprint = "TP_0603"; UniqueID = "\DVTAQAQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"

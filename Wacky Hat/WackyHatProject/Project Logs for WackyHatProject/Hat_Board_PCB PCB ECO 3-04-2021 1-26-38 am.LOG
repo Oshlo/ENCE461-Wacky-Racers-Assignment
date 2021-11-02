@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=NetC26_1 Pin=R25-2
+Added Net: Name=NetC26_1
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C25 100nF

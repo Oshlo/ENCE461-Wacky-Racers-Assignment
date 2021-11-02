@@ -1,0 +1,21 @@
+Removed Member From Class: ClassName=Power_USB Member=R6
+Removed Member From Class: ClassName=SAM4S_Piezo_LED Member=R18
+Added Pin To Net: NetName=Piezo High Pin=R5-1
+Added Member To Class: ClassName=IMU_Radio Member=Component R4 1K
+Added Member To Class: ClassName=IMU_Radio Member=Component R5 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R6 0R
+Added Member To Class: ClassName=Power_USB Member=Component R7 270R
+Added Member To Class: ClassName=Power_USB Member=Component R8 270R
+Added Member To Class: ClassName=Power_USB Member=Component R11 27K
+Added Member To Class: ClassName=Power_USB Member=Component R12 36K
+Added Member To Class: ClassName=Power_USB Member=Component R14 47K
+Added Member To Class: ClassName=Power_USB Member=Component R15 24K
+Added Member To Class: ClassName=Power_USB Member=Component R17 0R
+Added Member To Class: ClassName=Power_USB Member=Component R19 10K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R20 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R22 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R23 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R25 360R
+Added Room: Name=IMU_Radio
+Added Room: Name=Power_USB
+Added Room: Name=SAM4S_Piezo_LED

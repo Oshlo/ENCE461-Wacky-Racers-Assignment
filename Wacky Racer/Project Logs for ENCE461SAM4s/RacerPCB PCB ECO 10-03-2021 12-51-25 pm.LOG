@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=USB_DETECT Pin=U1-52
+Added Pin To Net: NetName=USB_DETECT Pin=U1-59
+Added Member To Class: ClassName=Ancillaries Member=Component R12 4K7
+Added Member To Class: ClassName=Ancillaries Member=Component R15 1R
+Added Member To Class: ClassName=Ancillaries Member=Component R16 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R17 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R18 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R19 0R

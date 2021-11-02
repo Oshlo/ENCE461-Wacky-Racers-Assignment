@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetC24_2 Pin=R15-1
+Removed Member From Class: ClassName=Ancillaries Member=R15
+Added Pin To Net: NetName=NetC24_2 Pin=F2-2
+Added Pin To Net: NetName=NetC24_2 Pin=R12-2
+Change Net Name : Old Net Name=NetC24_2 New Net Name=V_BATT

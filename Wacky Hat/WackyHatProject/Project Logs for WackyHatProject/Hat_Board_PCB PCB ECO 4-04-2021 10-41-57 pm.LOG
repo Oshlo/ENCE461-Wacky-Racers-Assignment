@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=3V3 Pin=R4-2
+Removed Member From Class: ClassName=IMU_Radio Member=R7
+Removed Member From Class: ClassName=IMU_Radio Member=TP8
+Removed Member From Class: ClassName=IMU_Radio Member=TP9
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=R20 NewDesignator=R19
+Change Component Designator: OldDesignator=R21 NewDesignator=R20
+Change Component Designator: OldDesignator=R22 NewDesignator=R21
+Change Component Designator: OldDesignator=R23 NewDesignator=R22
+Change Component Designator: OldDesignator=R24 NewDesignator=R23
+Change Component Designator: OldDesignator=R25 NewDesignator=R24
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=TP4-1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR5_2
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR22_2 New Net Name=NetR21_2
+Added Member To Class: ClassName=IMU_Radio Member=Component H4 3 Pin Molex KK Hdr
+Added Member To Class: ClassName=Power_USB Member=Component H6 JS_USB_MICRO_B
+Added Member To Class: ClassName=Power_USB Member=Component H7 4 Pin Molex KK Hdr
+Added Member To Class: ClassName=IMU_Radio Member=Component TP4 Piezo 22 Alt
+Added Member To Class: ClassName=IMU_Radio Member=Component TP5 Peizo 21 Alt
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP6 TP_0603
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP7 ERASE
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP11 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP12 Piezo 22
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP13 Piezo 21
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP14 Piezo 12
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP15 Piezo 11
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP16 3V3 Radio
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP17 VPIEZO
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP19 VBUS
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP20 3V3
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP21 VBATT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP22 Buzzer Low
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP24 LED Signal

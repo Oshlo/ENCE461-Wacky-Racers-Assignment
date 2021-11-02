@@ -1,0 +1,49 @@
+Removed Member From Class: ClassName=Power_USB Member=R5
+Removed Member From Class: ClassName=SAM4S_Piezo_LED Member=R16
+Removed Member From Class: ClassName=IMU_Radio Member=TP6
+Removed Member From Class: ClassName=IMU_Radio Member=TP11
+Removed Member From Class: ClassName=IMU_Radio Member=TP19
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP23
+Added Component: Designator=TP19(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IMU INT Pin=TP19-1
+Added Member To Class: ClassName=IMU_Radio Member=Component R2 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R4 0R
+Added Member To Class: ClassName=Power_USB Member=Component R6 270R
+Added Member To Class: ClassName=Power_USB Member=Component R8 47K
+Added Member To Class: ClassName=Power_USB Member=Component R9 27K
+Added Member To Class: ClassName=Power_USB Member=Component R11 0R
+Added Member To Class: ClassName=Power_USB Member=Component R13 24K
+Added Member To Class: ClassName=Power_USB Member=Component R15 0R
+Added Member To Class: ClassName=Power_USB Member=Component R17 360R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R18 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R20 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R21 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R23 360R
+Added Member To Class: ClassName=IMU_Radio Member=Component TP1 IMU Int
+Added Member To Class: ClassName=IMU_Radio Member=Component TP2 IMU Data
+Added Member To Class: ClassName=IMU_Radio Member=Component TP3 IMU Clock
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP4 TP_0603
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP5 ERASE
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP7 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP8 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP9 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP10 3V3 Radio
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP12 VBUS
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP13 3V3
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP14 VBATT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP15 LED Signal
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP16 Radio MISO
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP17 Radio MOSI
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP18 IMU DATA
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP23 IMU CLK

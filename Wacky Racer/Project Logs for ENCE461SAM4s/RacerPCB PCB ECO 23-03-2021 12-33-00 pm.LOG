@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=H9-1
+Removed Pin From Net: NetName=BRKOUT_1 Pin=H9-2
+Removed Pin From Net: NetName=V_BATT Pin=H9-3
+Removed Pin From Net: NetName=BRKOUT_2 Pin=H9-4
+Removed Pin From Net: NetName=3V3 Pin=H9-5
+Removed Pin From Net: NetName=BRKOUT_3 Pin=H9-6
+Removed Pin From Net: NetName=BRKOUT_5 Pin=H9-7
+Removed Pin From Net: NetName=BRKOUT_4 Pin=H9-8
+Change Component Footprint: Designator=H9 Old Footprint=IDC2.54-V08D New Footprint=MOLEX_KK_8_HDR
+Change Component Comment : Designator=H9 Old Comment=JA_HDR_IDC_4x2_VERT New Comment=8 PIN Molex KK Hdr
+Change component parameters: Designator = "H9"; Footprint = "MOLEX_KK_8_HDR"; UniqueID = "\EOBOJBXQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "ECE Dept Store"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1756826"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "8 PIN Molex KK Hdr"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BRKOUT_1 Pin=H9-1
+Added Pin To Net: NetName=BRKOUT_2 Pin=H9-2
+Added Pin To Net: NetName=BRKOUT_3 Pin=H9-3
+Added Pin To Net: NetName=BRKOUT_4 Pin=H9-4
+Added Pin To Net: NetName=BRKOUT_5 Pin=H9-5
+Added Pin To Net: NetName=3V3 Pin=H9-6
+Added Pin To Net: NetName=GND Pin=H9-7
+Added Pin To Net: NetName=V_BATT Pin=H9-8

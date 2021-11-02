@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C21 Old Footprint=CAPC3216N New Footprint=CAPC2012L
+Change Component Comment : Designator=C21 Old Comment=22uF New Comment=4.7uF
+Change component parameters: Designator = "C21"; Footprint = "CAPC2012L"; UniqueID = "\DTEYNILN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = "2012[0805]"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Footprint corresponds to dimensions for bulk cassette packaging. This case size has tightened tolerances."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "0805"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"

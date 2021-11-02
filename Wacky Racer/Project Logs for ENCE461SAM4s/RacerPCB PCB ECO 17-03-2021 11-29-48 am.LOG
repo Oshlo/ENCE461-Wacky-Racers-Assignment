@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=SAM4s_Schematic Member=C19
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=L2-1
+Added Pin To Net: NetName=NetC21_2 Pin=U4-1
+Added Net: Name=NetC21_2
+Added Member To Class: ClassName=SAM4s_Schematic Member=Component C15 100uF/16V
+Added Member To Class: ClassName=SAM4s_Schematic Member=Component C17 1uF
+Added Member To Class: ClassName=Ancillaries Member=Component C18 1uF
+Added Member To Class: ClassName=Ancillaries Member=Component C20 100uF/16V
+Added Member To Class: ClassName=Ancillaries Member=Component C21 10uF
+Added Member To Class: ClassName=Ancillaries Member=Component C23 100uF/16V
+Added Member To Class: ClassName=Ancillaries Member=Component C27 470uF/16V
+Added Member To Class: ClassName=Ancillaries Member=Component L2 1A max, Idc 0.3R,
+Added Member To Class: ClassName=Ancillaries Member=Component R15 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R16 0R
+Added Member To Class: ClassName=Ancillaries Member=Component R17 0R

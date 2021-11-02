@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Joystick X axis Pin=U9-3
+Removed Pin From Net: NetName=Joystick Y axis Pin=U9-4
+Added Pin To Net: NetName=Joystick Y axis Pin=U9-3
+Added Pin To Net: NetName=Joystick X axis Pin=U9-4

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V_USB Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=5V_USB Pin=D1-2
+Removed Pin From Net: NetName=V_LED Pin=D3-2
+Removed Pin From Net: NetName=V_LED Pin=TP31-1
+Removed Member From Class: ClassName=SAM4s_Schematic Member=C1
+Removed Member From Class: ClassName=SAM4s_Schematic Member=C31
+Removed Member From Class: ClassName=SAM4s_Schematic Member=D1
+Removed Member From Class: ClassName=Ancillaries Member=D3
+Removed Member From Class: ClassName=SAM4s_Schematic Member=TP31
+Added Pin To Net: NetName=V_LED Pin=C23-2
+Added Pin To Net: NetName=V_LED Pin=H9-8
+Added Pin To Net: NetName=V_LED Pin=R10-2
+Added Pin To Net: NetName=V_LED Pin=R11-2
+Added Pin To Net: NetName=V_LED Pin=TP11-1
+Change Net Name : Old Net Name=V_LED New Net Name=5V

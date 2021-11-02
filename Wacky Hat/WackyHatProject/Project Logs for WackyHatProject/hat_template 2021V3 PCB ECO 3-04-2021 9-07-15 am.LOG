@@ -1,0 +1,737 @@
+Change Component Designator: OldDesignator=U1_1 NewDesignator=U9
+Change Component Designator: OldDesignator=U2_1 NewDesignator=U1
+Change Component Designator: OldDesignator=U3_1 NewDesignator=U4
+Added Component: Designator=C1(CAPC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "1608 [0603]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J1(JMP2.54-CO)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "ECE$ Store"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RESC1608L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(TP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S1751-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "ProtoPlace"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1478-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1826282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(TP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S1751-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "ProtoPlace"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1478-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1826282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(TP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S1751-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "ProtoPlace"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1478-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1826282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(TP_1206)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "S1751-46R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer PN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "ProtoPlace"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "952-1478-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "1826282"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP8(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP10(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP11(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP12(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP13(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP14(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP15(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP16(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP17(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP18(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=TP19(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT23-6_N)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V IMU Pin=C1-2
+Added Pin To Net: NetName=3.3V IMU Pin=C2-2
+Added Pin To Net: NetName=3.3V IMU Pin=H1-9
+Added Pin To Net: NetName=3.3V IMU Pin=J1-3
+Added Pin To Net: NetName=3.3V IMU Pin=R1-1
+Added Pin To Net: NetName=3.3V IMU Pin=U1-1
+Added Pin To Net: NetName=3.3V IMU Pin=U1-8
+Added Pin To Net: NetName=3.3V IMU Pin=U1-13
+Added Pin To Net: NetName=3.3V IMU Pin=U1-22
+Added Net: Name=3.3V IMU
+Added Pin To Net: NetName=3.3V Joystick Pin=J1-1
+Added Pin To Net: NetName=3.3V Joystick Pin=VR1-1
+Added Pin To Net: NetName=3.3V Joystick Pin=VR1-4
+Added Net: Name=3.3V Joystick
+Added Pin To Net: NetName=3V3 Breakout 1 Pin=D3-2
+Added Pin To Net: NetName=3V3 Breakout 1 Pin=D5-1
+Added Pin To Net: NetName=3V3 Breakout 1 Pin=R19-1
+Added Pin To Net: NetName=3V3 Breakout 1 Pin=U9-14
+Added Net: Name=3V3 Breakout 1
+Added Pin To Net: NetName=3V3 Breakout 2 Pin=D4-2
+Added Pin To Net: NetName=3V3 Breakout 2 Pin=D6-1
+Added Pin To Net: NetName=3V3 Breakout 2 Pin=R18-1
+Added Pin To Net: NetName=3V3 Breakout 2 Pin=U9-13
+Added Net: Name=3V3 Breakout 2
+Added Pin To Net: NetName=3V3 Radio Pin=C11-2
+Added Pin To Net: NetName=3V3 Radio Pin=R2-1
+Added Pin To Net: NetName=3V3 Radio Pin=TP7-1
+Added Pin To Net: NetName=3V3 Radio Pin=U5-5
+Added Net: Name=3V3 Radio
+Added Pin To Net: NetName=3V3 Pin=C14-2
+Added Pin To Net: NetName=3V3 Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=C22-2
+Added Pin To Net: NetName=3V3 Pin=C24-2
+Added Pin To Net: NetName=3V3 Pin=C26-2
+Added Pin To Net: NetName=3V3 Pin=D3-1
+Added Pin To Net: NetName=3V3 Pin=D4-1
+Added Pin To Net: NetName=3V3 Pin=DL1-2
+Added Pin To Net: NetName=3V3 Pin=DL2-2
+Added Pin To Net: NetName=3V3 Pin=H7-1
+Added Pin To Net: NetName=3V3 Pin=H8-7
+Added Pin To Net: NetName=3V3 Pin=H8-8
+Added Pin To Net: NetName=3V3 Pin=J1-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R22-2
+Added Pin To Net: NetName=3V3 Pin=R23-2
+Added Pin To Net: NetName=3V3 Pin=TP1-1
+Added Pin To Net: NetName=3V3 Pin=TP10-1
+Added Pin To Net: NetName=3V3 Pin=U6-6
+Added Pin To Net: NetName=3V3 Pin=U7-6
+Added Pin To Net: NetName=3V3 Pin=U8-5
+Added Pin To Net: NetName=3V3 Pin=U9-1
+Added Pin To Net: NetName=3V3 Pin=U9-7
+Added Pin To Net: NetName=3V3 Pin=U9-18
+Added Pin To Net: NetName=3V3 Pin=U9-45
+Added Pin To Net: NetName=3V3 Pin=U9-58
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Breakout 1 Pin=U6-4
+Added Pin To Net: NetName=5V Breakout 1 Pin=U9-16
+Added Net: Name=5V Breakout 1
+Added Pin To Net: NetName=5V Breakout 2 Pin=U7-4
+Added Pin To Net: NetName=5V Breakout 2 Pin=U9-15
+Added Net: Name=5V Breakout 2
+Added Pin To Net: NetName=5V Pin=C7-2
+Added Pin To Net: NetName=5V Pin=H6-1
+Added Pin To Net: NetName=5V Pin=L2-2
+Added Pin To Net: NetName=5V Pin=R3-2
+Added Pin To Net: NetName=5V Pin=R7-2
+Added Pin To Net: NetName=5V Pin=R13-1
+Added Pin To Net: NetName=5V Pin=R16-2
+Added Pin To Net: NetName=5V Pin=R17-1
+Added Pin To Net: NetName=5V Pin=TP8-1
+Added Pin To Net: NetName=5V Pin=U4-5
+Added Net: Name=5V
+Added Pin To Net: NetName=D_N Pin=H5-2
+Added Pin To Net: NetName=D_N Pin=R21-1
+Added Net: Name=D_N
+Added Pin To Net: NetName=D_P Pin=H5-3
+Added Pin To Net: NetName=D_P Pin=R20-1
+Added Net: Name=D_P
+Added Pin To Net: NetName=Freq1 Pin=S1-8
+Added Pin To Net: NetName=Freq1 Pin=U9-29
+Added Net: Name=Freq1
+Added Pin To Net: NetName=Freq2 Pin=S1-7
+Added Pin To Net: NetName=Freq2 Pin=U9-30
+Added Net: Name=Freq2
+Added Pin To Net: NetName=Freq3 Pin=S1-6
+Added Pin To Net: NetName=Freq3 Pin=U9-31
+Added Net: Name=Freq3
+Added Pin To Net: NetName=Freq4 Pin=S1-5
+Added Pin To Net: NetName=Freq4 Pin=U9-32
+Added Net: Name=Freq4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=GND Pin=C22-1
+Added Pin To Net: NetName=GND Pin=C23-2
+Added Pin To Net: NetName=GND Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=GND Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C28-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=GND Pin=H1-2
+Added Pin To Net: NetName=GND Pin=H1-7
+Added Pin To Net: NetName=GND Pin=H1-10
+Added Pin To Net: NetName=GND Pin=H3-3
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=GND Pin=H4-3
+Added Pin To Net: NetName=GND Pin=H5-5
+Added Pin To Net: NetName=GND Pin=H5-6
+Added Pin To Net: NetName=GND Pin=H5-6
+Added Pin To Net: NetName=GND Pin=H5-6
+Added Pin To Net: NetName=GND Pin=H5-6
+Added Pin To Net: NetName=GND Pin=H5-6
+Added Pin To Net: NetName=GND Pin=H5-6
+Added Pin To Net: NetName=GND Pin=H6-2
+Added Pin To Net: NetName=GND Pin=H7-2
+Added Pin To Net: NetName=GND Pin=H8-5
+Added Pin To Net: NetName=GND Pin=H8-6
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R14-1
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R24-1
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S3-2
+Added Pin To Net: NetName=GND Pin=T1-2
+Added Pin To Net: NetName=GND Pin=TP3-1
+Added Pin To Net: NetName=GND Pin=TP4-1
+Added Pin To Net: NetName=GND Pin=TP5-1
+Added Pin To Net: NetName=GND Pin=TP6-1
+Added Pin To Net: NetName=GND Pin=U1-9
+Added Pin To Net: NetName=GND Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-18
+Added Pin To Net: NetName=GND Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-7
+Added Pin To Net: NetName=GND Pin=U4-EPAD
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=GND Pin=U6-2
+Added Pin To Net: NetName=GND Pin=U6-5
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=GND Pin=U7-5
+Added Pin To Net: NetName=GND Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=GND Pin=U9-17
+Added Pin To Net: NetName=GND Pin=U9-46
+Added Pin To Net: NetName=GND Pin=U9-60
+Added Pin To Net: NetName=GND Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR1-6
+Added Net: Name=GND
+Added Pin To Net: NetName=IMU I2C CLK Pin=H1-3
+Added Pin To Net: NetName=IMU I2C CLK Pin=R22-1
+Added Pin To Net: NetName=IMU I2C CLK Pin=TP19-1
+Added Pin To Net: NetName=IMU I2C CLK Pin=U1-23
+Added Pin To Net: NetName=IMU I2C CLK Pin=U9-36
+Added Net: Name=IMU I2C CLK
+Added Pin To Net: NetName=IMU I2C DATA Pin=H1-4
+Added Pin To Net: NetName=IMU I2C DATA Pin=R23-1
+Added Pin To Net: NetName=IMU I2C DATA Pin=TP15-1
+Added Pin To Net: NetName=IMU I2C DATA Pin=U1-24
+Added Pin To Net: NetName=IMU I2C DATA Pin=U9-43
+Added Net: Name=IMU I2C DATA
+Added Pin To Net: NetName=Joystick X axis Pin=U9-3
+Added Pin To Net: NetName=Joystick X axis Pin=VR1-5
+Added Net: Name=Joystick X axis
+Added Pin To Net: NetName=Joystick Y axis Pin=U9-4
+Added Pin To Net: NetName=Joystick Y axis Pin=VR1-2
+Added Net: Name=Joystick Y axis
+Added Pin To Net: NetName=LED Signal Pin=TP12-1
+Added Pin To Net: NetName=LED Signal Pin=U3-4
+Added Pin To Net: NetName=LED Signal Pin=U9-34
+Added Net: Name=LED Signal
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-10
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=L1-1
+Added Pin To Net: NetName=NetC4_2 Pin=U2-1
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=U4-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D1-2
+Added Pin To Net: NetName=NetC6_2 Pin=L2-1
+Added Pin To Net: NetName=NetC6_2 Pin=U4-8
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=NetC8_2 Pin=H4-2
+Added Pin To Net: NetName=NetC8_2 Pin=Q1-3
+Added Net: Name=NetC8_2
+Added Pin To Net: NetName=NetC9_2 Pin=C9-2
+Added Pin To Net: NetName=NetC9_2 Pin=R13-2
+Added Pin To Net: NetName=NetC9_2 Pin=U5-1
+Added Pin To Net: NetName=NetC9_2 Pin=U5-3
+Added Net: Name=NetC9_2
+Added Pin To Net: NetName=NetC10_2 Pin=C10-2
+Added Pin To Net: NetName=NetC10_2 Pin=U5-4
+Added Net: Name=NetC10_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R17-2
+Added Pin To Net: NetName=NetC12_2 Pin=U8-1
+Added Pin To Net: NetName=NetC12_2 Pin=U8-3
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U8-4
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC15_2 Pin=C15-2
+Added Pin To Net: NetName=NetC15_2 Pin=U9-62
+Added Pin To Net: NetName=NetC15_2 Pin=Y1-3
+Added Net: Name=NetC15_2
+Added Pin To Net: NetName=NetC16_2 Pin=C16-2
+Added Pin To Net: NetName=NetC16_2 Pin=U9-61
+Added Pin To Net: NetName=NetC16_2 Pin=Y1-1
+Added Net: Name=NetC16_2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=C20-1
+Added Pin To Net: NetName=NetC18_1 Pin=C23-1
+Added Pin To Net: NetName=NetC18_1 Pin=C25-1
+Added Pin To Net: NetName=NetC18_1 Pin=L3-2
+Added Pin To Net: NetName=NetC18_1 Pin=U9-8
+Added Pin To Net: NetName=NetC18_1 Pin=U9-12
+Added Pin To Net: NetName=NetC18_1 Pin=U9-24
+Added Pin To Net: NetName=NetC18_1 Pin=U9-54
+Added Net: Name=NetC18_1
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC27_1 Pin=R24-2
+Added Net: Name=NetC27_1
+Added Pin To Net: NetName=NetC27_2 Pin=C27-2
+Added Pin To Net: NetName=NetC27_2 Pin=C28-2
+Added Pin To Net: NetName=NetC27_2 Pin=L3-1
+Added Pin To Net: NetName=NetC27_2 Pin=U9-64
+Added Net: Name=NetC27_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=F1-1
+Added Pin To Net: NetName=NetD2_1 Pin=Q1-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=Q1-1
+Added Pin To Net: NetName=NetD2_2 Pin=R8-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetDL1_1 Pin=DL1-1
+Added Pin To Net: NetName=NetDL1_1 Pin=R25-1
+Added Net: Name=NetDL1_1
+Added Pin To Net: NetName=NetDL2_1 Pin=DL2-1
+Added Pin To Net: NetName=NetDL2_1 Pin=R26-1
+Added Net: Name=NetDL2_1
+Added Pin To Net: NetName=NetH1_1 Pin=H1-1
+Added Pin To Net: NetName=NetH1_1 Pin=R1-2
+Added Net: Name=NetH1_1
+Added Pin To Net: NetName=NetH2_1 Pin=H2-1
+Added Pin To Net: NetName=NetH2_1 Pin=R3-1
+Added Pin To Net: NetName=NetH2_1 Pin=R4-2
+Added Net: Name=NetH2_1
+Added Pin To Net: NetName=NetH2_2 Pin=H2-2
+Added Pin To Net: NetName=NetH2_2 Pin=R4-1
+Added Pin To Net: NetName=NetH2_2 Pin=T1-3
+Added Net: Name=NetH2_2
+Added Pin To Net: NetName=NetH3_1 Pin=H3-1
+Added Pin To Net: NetName=NetH3_1 Pin=R7-1
+Added Pin To Net: NetName=NetH3_1 Pin=U3-1
+Added Net: Name=NetH3_1
+Added Pin To Net: NetName=NetH3_2 Pin=H3-2
+Added Pin To Net: NetName=NetH3_2 Pin=U3-3
+Added Net: Name=NetH3_2
+Added Pin To Net: NetName=NetH6_3 Pin=H6-3
+Added Pin To Net: NetName=NetH6_3 Pin=U6-3
+Added Net: Name=NetH6_3
+Added Pin To Net: NetName=NetH6_4 Pin=H6-4
+Added Pin To Net: NetName=NetH6_4 Pin=U7-3
+Added Net: Name=NetH6_4
+Added Pin To Net: NetName=NetH7_3 Pin=H7-3
+Added Pin To Net: NetName=NetH7_3 Pin=R18-2
+Added Net: Name=NetH7_3
+Added Pin To Net: NetName=NetH7_4 Pin=H7-4
+Added Pin To Net: NetName=NetH7_4 Pin=R19-2
+Added Net: Name=NetH7_4
+Added Pin To Net: NetName=NetL1_2 Pin=L1-2
+Added Pin To Net: NetName=NetL1_2 Pin=R2-2
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=T1-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U3-6
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R10-2
+Added Pin To Net: NetName=NetR9_1 Pin=U4-3
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U6-1
+Added Pin To Net: NetName=NetR16_1 Pin=U7-1
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=U9-57
+Added Net: Name=NetR20_2
+Added Pin To Net: NetName=NetR21_2 Pin=R21-2
+Added Pin To Net: NetName=NetR21_2 Pin=U9-56
+Added Net: Name=NetR21_2
+Added Pin To Net: NetName=NetTP2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetTP2_1 Pin=U9-55
+Added Net: Name=NetTP2_1
+Added Pin To Net: NetName=nRST Pin=H8-1
+Added Pin To Net: NetName=nRST Pin=S2-1
+Added Pin To Net: NetName=nRST Pin=U9-39
+Added Net: Name=nRST
+Added Pin To Net: NetName=Piezo High Pin=R5-1
+Added Pin To Net: NetName=Piezo High Pin=TP16-1
+Added Pin To Net: NetName=Piezo High Pin=U9-48
+Added Net: Name=Piezo High
+Added Pin To Net: NetName=Radio CE Pin=U2-3
+Added Pin To Net: NetName=Radio CE Pin=U9-26
+Added Net: Name=Radio CE
+Added Pin To Net: NetName=Radio CSN Pin=U2-4
+Added Pin To Net: NetName=Radio CSN Pin=U9-28
+Added Net: Name=Radio CSN
+Added Pin To Net: NetName=Radio IRQ Pin=U2-8
+Added Pin To Net: NetName=Radio IRQ Pin=U9-25
+Added Net: Name=Radio IRQ
+Added Pin To Net: NetName=Radio MISO Pin=TP13-1
+Added Pin To Net: NetName=Radio MISO Pin=U2-7
+Added Pin To Net: NetName=Radio MISO Pin=U9-27
+Added Net: Name=Radio MISO
+Added Pin To Net: NetName=Radio MOSI Pin=TP14-1
+Added Pin To Net: NetName=Radio MOSI Pin=U2-6
+Added Pin To Net: NetName=Radio MOSI Pin=U9-22
+Added Net: Name=Radio MOSI
+Added Pin To Net: NetName=Radio SCK Pin=TP18-1
+Added Pin To Net: NetName=Radio SCK Pin=U2-5
+Added Pin To Net: NetName=Radio SCK Pin=U9-21
+Added Net: Name=Radio SCK
+Added Pin To Net: NetName=Sleep Pin=S3-1
+Added Pin To Net: NetName=Sleep Pin=U9-47
+Added Net: Name=Sleep
+Added Pin To Net: NetName=STATUS0 Pin=R25-2
+Added Pin To Net: NetName=STATUS0 Pin=U9-5
+Added Net: Name=STATUS0
+Added Pin To Net: NetName=STATUS1 Pin=R26-2
+Added Pin To Net: NetName=STATUS1 Pin=U9-6
+Added Net: Name=STATUS1
+Added Pin To Net: NetName=SWCLK Pin=H8-2
+Added Pin To Net: NetName=SWCLK Pin=TP17-1
+Added Pin To Net: NetName=SWCLK Pin=U9-53
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=H8-4
+Added Pin To Net: NetName=SWDIO Pin=U9-51
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=USB_Detect Pin=R11-1
+Added Pin To Net: NetName=USB_Detect Pin=R14-2
+Added Pin To Net: NetName=USB_Detect Pin=U9-10
+Added Net: Name=USB_Detect
+Added Pin To Net: NetName=VBATT Detection Pin=R12-1
+Added Pin To Net: NetName=VBATT Detection Pin=R15-2
+Added Pin To Net: NetName=VBATT Detection Pin=U9-9
+Added Net: Name=VBATT Detection
+Added Pin To Net: NetName=VBATT Pin=C5-2
+Added Pin To Net: NetName=VBATT Pin=F1-2
+Added Pin To Net: NetName=VBATT Pin=R9-2
+Added Pin To Net: NetName=VBATT Pin=R12-2
+Added Pin To Net: NetName=VBATT Pin=TP11-1
+Added Pin To Net: NetName=VBATT Pin=U4-2
+Added Net: Name=VBATT
+Added Pin To Net: NetName=VBUS Pin=H5-1
+Added Pin To Net: NetName=VBUS Pin=R11-2
+Added Pin To Net: NetName=VBUS Pin=TP9-1
+Added Net: Name=VBUS
+Added Differential Pair: Name=D
+Added Member To Class: ClassName=IMU_Radio Member=Component C1 100nF
+Added Member To Class: ClassName=IMU_Radio Member=Component C2 10nF
+Added Member To Class: ClassName=IMU_Radio Member=Component C3 100nF
+Added Member To Class: ClassName=IMU_Radio Member=Component C4 10uF
+Added Member To Class: ClassName=Power_USB Member=Component C5 10uF
+Added Member To Class: ClassName=Power_USB Member=Component C6 100nF
+Added Member To Class: ClassName=Power_USB Member=Component C7 47uF
+Added Member To Class: ClassName=Power_USB Member=Component C8 100uF/16V
+Added Member To Class: ClassName=Power_USB Member=Component C9 1uF
+Added Member To Class: ClassName=Power_USB Member=Component C10 10nF
+Added Member To Class: ClassName=Power_USB Member=Component C11 4.7uF
+Added Member To Class: ClassName=Power_USB Member=Component C12 1uF
+Added Member To Class: ClassName=Power_USB Member=Component C13 10nF
+Added Member To Class: ClassName=Power_USB Member=Component C14 2.2uF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C15 27pF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C16 27pF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C17 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C18 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C19 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C20 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C21 22uF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C22 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C23 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C24 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C25 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C26 100nF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C27 4.7uF
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C28 100nF
+Added Member To Class: ClassName=Power_USB Member=Component D1 SCHOTTKY 30V 4A
+Added Member To Class: ClassName=Power_USB Member=Component D2 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component D3 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component D4 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component D5 DIODE ZENER 5.6V
+Added Member To Class: ClassName=Power_USB Member=Component D6 DIODE ZENER 5.6V
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component DL1 Blue
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component DL2 Dark Green
+Added Member To Class: ClassName=Power_USB Member=Component F1 2A
+Added Member To Class: ClassName=IMU_Radio Member=Component H1 10 Pin Molex KK Hdr
+Added Member To Class: ClassName=IMU_Radio Member=Component H2 2 Pin Molex KK HDR
+Added Member To Class: ClassName=IMU_Radio Member=Component H3 3 Pin Molex KK Hdr
+Added Member To Class: ClassName=Power_USB Member=Component H4 Battery_HEADER_3pin
+Added Member To Class: ClassName=Power_USB Member=Component H5 JS_USB_MICRO_B
+Added Member To Class: ClassName=Power_USB Member=Component H6 4 Pin Molex KK Hdr
+Added Member To Class: ClassName=Power_USB Member=Component H7 4 Pin Molex KK Hdr
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component H8 Header 5X2 Vert
+Added Member To Class: ClassName=IMU_Radio Member=Component J1 100Mil Jumper
+Added Member To Class: ClassName=IMU_Radio Member=Component L1 1A max, Idc 0.3R,
+Added Member To Class: ClassName=Power_USB Member=Component L2 IND 5.2UH 6A
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component L3 1A max, Idc 0.3R,
+Added Member To Class: ClassName=Power_USB Member=Component Q1 SSM3J328R,LF
+Added Member To Class: ClassName=IMU_Radio Member=Component R1 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R2 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R3 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R4 1K
+Added Member To Class: ClassName=IMU_Radio Member=Component R5 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R6 0R
+Added Member To Class: ClassName=IMU_Radio Member=Component R7 0R
+Added Member To Class: ClassName=Power_USB Member=Component R8 270R
+Added Member To Class: ClassName=Power_USB Member=Component R9 15K
+Added Member To Class: ClassName=Power_USB Member=Component R10 47K
+Added Member To Class: ClassName=Power_USB Member=Component R11 27K
+Added Member To Class: ClassName=Power_USB Member=Component R12 36K
+Added Member To Class: ClassName=Power_USB Member=Component R13 0R
+Added Member To Class: ClassName=Power_USB Member=Component R14 47K
+Added Member To Class: ClassName=Power_USB Member=Component R15 24K
+Added Member To Class: ClassName=Power_USB Member=Component R16 0R
+Added Member To Class: ClassName=Power_USB Member=Component R17 0R
+Added Member To Class: ClassName=Power_USB Member=Component R18 360R
+Added Member To Class: ClassName=Power_USB Member=Component R19 360R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R20 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R21 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R22 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R23 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R24 1R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R25 360R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R26 360R
+Added Member To Class: ClassName=IMU_Radio Member=Component S1 WS_SW DIP-4
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component S2 EVQPNF05M
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component S3 EVQPNF05M
+Added Member To Class: ClassName=IMU_Radio Member=Component T1 BSH105,215
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP1 TP_0603
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP2 ERASE
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP3 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP4 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP5 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP6 GND
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP7 3V3 Radio
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP8 5V
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP9 VBUS
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP10 3V3
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP11 VBATT
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP12 LED Signal
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP13 Radio MISO
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP14 Radio MOSI
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP15 IMU DATA
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP16 Buzzer High
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP17 SWCLK
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP18 Radio CLK
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP19 IMU CLK
+Added Member To Class: ClassName=IMU_Radio Member=Component U1 Comment
+Added Member To Class: ClassName=IMU_Radio Member=Component U2 nRF24 SMD
+Added Member To Class: ClassName=IMU_Radio Member=Component U3 SN74LVC1T45
+Added Member To Class: ClassName=Power_USB Member=Component U4 Comment
+Added Member To Class: ClassName=Power_USB Member=Component U5 CAT6219-330TDGT3
+Added Member To Class: ClassName=Power_USB Member=Component U6 SN74LVC1T45
+Added Member To Class: ClassName=Power_USB Member=Component U7 SN74LVC1T45
+Added Member To Class: ClassName=Power_USB Member=Component U8 CAT6219-330TDGT3
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component U9 Comment
+Added Member To Class: ClassName=IMU_Radio Member=Component VR1 Joystick 10k with Sw
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component Y1 12MHz

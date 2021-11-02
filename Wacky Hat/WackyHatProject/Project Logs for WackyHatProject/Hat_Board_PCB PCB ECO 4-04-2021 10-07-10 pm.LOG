@@ -1,0 +1,31 @@
+Removed Member From Class: ClassName=Power_USB Member=R22
+Change Component Designator: OldDesignator=TP15 NewDesignator=TP16
+Change Component Designator: OldDesignator=TP16 NewDesignator=TP17
+Change Component Designator: OldDesignator=TP17 NewDesignator=TP18
+Change Component Designator: OldDesignator=TP18 NewDesignator=TP19
+Change Component Designator: OldDesignator=TP19 NewDesignator=TP20
+Change Component Designator: OldDesignator=TP20 NewDesignator=TP21
+Change Component Designator: OldDesignator=TP21 NewDesignator=TP22
+Change Component Designator: OldDesignator=TP22 NewDesignator=TP23
+Change Component Designator: OldDesignator=TP23 NewDesignator=TP24
+Change Component Designator: OldDesignator=TP24 NewDesignator=TP25
+Added Component: Designator=TP15(TP_0603)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = "TE Connectivity AMP Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1625854-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "A106145CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Terminal"; Value = "0.063" x 0.031" x 0.045" (1.60mm x 0.80mm x 1.15mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "PC Test Point"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Piezo Low Pin=TP15-1
+Added Member To Class: ClassName=Power_USB Member=Component Q2 SSM3J328R,LF
+Added Member To Class: ClassName=Power_USB Member=Component R9 270R
+Added Member To Class: ClassName=Power_USB Member=Component R10 15K
+Added Member To Class: ClassName=Power_USB Member=Component R13 36K
+Added Member To Class: ClassName=Power_USB Member=Component R16 24K
+Added Member To Class: ClassName=Power_USB Member=Component R18 0R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R21 27R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R24 2K
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component R26 360R
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component TP25 IMU CLK

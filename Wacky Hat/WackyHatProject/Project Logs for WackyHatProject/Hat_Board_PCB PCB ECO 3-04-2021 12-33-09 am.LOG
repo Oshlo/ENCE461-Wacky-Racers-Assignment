@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=3V3 Pin=R25-2
+Removed Member From Class: ClassName=SAM4S_Piezo_LED Member=R28
+Change Component Designator: OldDesignator=R26 NewDesignator=R25
+Change Component Designator: OldDesignator=R27 NewDesignator=R26
+Change Component Designator: OldDesignator=R28 NewDesignator=R27
+Added Pin To Net: NetName=3V3 Pin=C17-2
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Added Pin To Net: NetName=3V3 Pin=C23-2
+Added Pin To Net: NetName=3V3 Pin=C25-2
+Added Pin To Net: NetName=3V3 Pin=U9-1
+Added Pin To Net: NetName=3V3 Pin=U9-7
+Added Pin To Net: NetName=3V3 Pin=U9-18
+Added Pin To Net: NetName=3V3 Pin=U9-45
+Added Pin To Net: NetName=3V3 Pin=U9-58

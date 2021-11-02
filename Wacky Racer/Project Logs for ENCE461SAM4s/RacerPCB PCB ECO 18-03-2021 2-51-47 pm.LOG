@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=V_MOT Pin=C27-2
+Change Component Footprint: Designator=C27 Old Footprint=PANA-F New Footprint=CAPC3216L
+Change Component Comment : Designator=C27 Old Comment=470uF/16V New Comment=22uF
+Change component parameters: Designator = "C27"; Footprint = "CAPC3216L"; UniqueID = "\NSSJYHFW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "Y5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V_MOT Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2

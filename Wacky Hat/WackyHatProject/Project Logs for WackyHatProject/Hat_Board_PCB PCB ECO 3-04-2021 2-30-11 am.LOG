@@ -1,0 +1,20 @@
+Change Component Designator: OldDesignator=C21 NewDesignator=C22
+Change Component Designator: OldDesignator=C22 NewDesignator=C23
+Change Component Designator: OldDesignator=C23 NewDesignator=C24
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Added Component: Designator=C21(CAPC3216N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Dielectric"; Value = "Y5V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Storage Location"; Value = "PCB Assembly WS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "ECE Dept"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Verify"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C21-1
+Added Pin To Net: NetName=3V3 Pin=C21-2
+Change Net Name : Old Net Name=NetC26_1 New Net Name=NetC27_1
+Change Net Name : Old Net Name=NetC26_2 New Net Name=NetC27_2
+Added Member To Class: ClassName=SAM4S_Piezo_LED Member=Component C28 100nF
